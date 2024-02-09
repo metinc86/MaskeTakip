@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkSpace", "WorkSpace\WorkSpace.csproj", "{3ACCD99C-1459-46BD-963A-0ECEDB51B819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etities", "Etities\Etities.csproj", "{2BED1F6D-5182-491C-83BF-B38A3AA8A3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{37B230A4-81A2-4432-B115-530700054582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACCD99C-1459-46BD-963A-0ECEDB51B819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACCD99C-1459-46BD-963A-0ECEDB51B819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACCD99C-1459-46BD-963A-0ECEDB51B819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACCD99C-1459-46BD-963A-0ECEDB51B819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BED1F6D-5182-491C-83BF-B38A3AA8A3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BED1F6D-5182-491C-83BF-B38A3AA8A3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BED1F6D-5182-491C-83BF-B38A3AA8A3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BED1F6D-5182-491C-83BF-B38A3AA8A3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B230A4-81A2-4432-B115-530700054582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B230A4-81A2-4432-B115-530700054582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B230A4-81A2-4432-B115-530700054582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B230A4-81A2-4432-B115-530700054582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5EAEA89-7E3A-4A6E-BE75-09AA3761825F}
+	EndGlobalSection
+EndGlobal
